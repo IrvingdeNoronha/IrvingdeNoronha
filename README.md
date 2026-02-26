@@ -10,7 +10,7 @@ I’m currently building a strong foundation in computer science. My focus is on
 
 ---
 
-🛠 Tech Stack
+🛠 My Skills
 
 - Languages: Python, C, JavaScript (Basic)
 - Frontend: HTML5, CSS3 , Responsive Design
